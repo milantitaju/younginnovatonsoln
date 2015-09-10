@@ -1,7 +1,7 @@
 # younginnovatonsoln
 Solution of given task
 
-Total Files: 11
+Total Files: 10 excluding README file,
 Files: 
 	1)index.php
 	2)contracts.php
@@ -13,7 +13,6 @@ Files:
 	8)awards.csv
 	9)connect_db.php
 	10)younginnovation(1).sql
-	11)README.txt
 
 ------------Process of running the script, with installation/setup-------------
 
